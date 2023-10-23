@@ -48,3 +48,7 @@
 
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michinnn&theme=rose)](https://github.com/michinnn)
+
+### 📁 PUBLIC REPOS 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
