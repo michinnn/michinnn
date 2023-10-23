@@ -8,6 +8,8 @@
   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-D93F48?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
     
   <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-D93F48?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+
+<img alt="Vue" src="https://img.shields.io/badge/Vue.js-D93F48?style=for-the-badge&logo=vue.js&logoColor=white"/>
     
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-FF757D?style=for-the-badge&logo=flutter&logoColor=white"/>
     
