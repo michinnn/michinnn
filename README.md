@@ -38,6 +38,8 @@
 - Currently studing at Baliuag University.
 - Currebtly workig as an intern in IntelliSeven Technology Solutions Inc.
 
+<img align="right" alt="PNG" src="./logo2.png" width="100" height = "100"/>
+
 <a href="" alt="">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D93F48?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -49,6 +51,7 @@
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michinnn&theme=rose)](https://github.com/michinnn)
 
+
 ### 📁 PUBLIC REPOS 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michinnn&repo=MAI&theme=rose)](https://github.com/michinnn/MAI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
