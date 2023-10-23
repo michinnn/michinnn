@@ -37,8 +37,7 @@
 - Aspiring Front-End developer and UI/UX designer.
 - Currently studing at Baliuag University.
 - Currebtly workig as an intern in IntelliSeven Technology Solutions Inc.
-
-<img align="right" alt="PNG" src="./logo2.png" width="500" height = "500"/>
+<img align="right" alt="PNG" src="./logo2.png" width="300" height = "300"/>
 
 <a href="" alt="">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D93F48?style=for-the-badge&logo=linkedin&logoColor=white"/>
