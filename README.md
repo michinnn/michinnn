@@ -32,7 +32,7 @@
 
 <hr style="background-color:#D93F48">
 
-<img align="right" alt="PNG" src="./logo2.png" width="200" height = "200"/><br/><br/>
+<img align="right" alt="PNG" src="./logo2.png" width="200" height = "200"/><br/>
 
 ### ✨ ABOUT ME
 
