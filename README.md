@@ -13,11 +13,17 @@
 
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-FF757D?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-FF757D?style=for-the-badge&logo=flutter&logoColor=white"/>
-    
   <img alt="Jira" src="https://img.shields.io/badge/Jira-FF757D?style=for-the-badge&logo=Jira&logoColor=white"/>
 
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-FF757D?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-FF757D?style=for-the-badge&logo=html5&logoColor=white"/>
+
+ <img alt="Flutter" src="https://img.shields.io/badge/Flutter-FF757D?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+ <img alt="Dart" src="https://img.shields.io/badge/Dart-FFEBEB?style=for-the-badge&logo=dart&logoColor=D93F48"/>
+ 
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-FFEBEB?&style=for-the-badge&logo=css3&logoColor=D93F48"/>
     
   <img alt="Visual Studion" src="https://img.shields.io/badge/Visual_Studio-FFEBEB?style=for-the-badge&logo=visual%20studio&logoColor=D93F48"/>
     
