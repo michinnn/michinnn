@@ -38,7 +38,7 @@
 - Currently studing at Baliuag University.
 - Currebtly workig as an intern in IntelliSeven Technology Solutions Inc.
 <br/>
-<img align="right" alt="PNG" src="./logo2.png" width="300" height = "300"/>
+<img alt="PNG" src="./logo2.png" width="300" height = "300"/>
 
 
 <a href="" alt="">
