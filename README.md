@@ -1,5 +1,5 @@
 
-<p style="font-family: 'Courier'; font-size: 25px; font-weight: bold"> 💻 TECH STACK </p>
+### 💻 TECH STACK 
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-D93F48?style=for-the-badge&logo=figma&logoColor=white"/>
   
@@ -22,7 +22,7 @@
 
 <hr style="background-color:#D93F48">
 
-<p style="font-family: 'Courier'; font-size: 25px; font-weight: bold">✨ ABOUT ME</p>
+### ✨ ABOUT ME
 
 - Aspiring Front-End developer and UI/UX designer.
 - Currently studing at Baliuag University.
@@ -34,7 +34,7 @@
 
 <hr style="background-color:#D93F48">
 
-<p style="font-family: 'Courier'; font-size: 25px; font-weight: bold"> 📊 GITHUB STATS </p>
+### 📊 GITHUB STATS 
 
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michinnn&theme=rose)](https://github.com/michinnn)
