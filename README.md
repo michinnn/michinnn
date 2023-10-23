@@ -36,7 +36,7 @@
 
 <div align="left">
   <div style="display: flex;">
-<p>
+<p style="display: flex; flex-direction: column;">
 - Aspiring Front-End developer and UI/UX designer.
 - Currently studing at Baliuag University.
 - Currently workig as an intern in IntelliSeven Technology Solutions Inc.
