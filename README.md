@@ -32,7 +32,7 @@
 
 <hr style="background-color:#D93F48">
 
-<img align="right" alt="PNG" src="./logo2.png" width="200" height = "200"/>
+<img align="right" alt="PNG" src="./logo2.png" width="200" height = "200"/><br/><br/>
 
 ### ✨ ABOUT ME
 
@@ -43,7 +43,6 @@
 <a href="" alt="">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D93F48?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br/>
 
 <hr style="background-color:#D93F48">
 
