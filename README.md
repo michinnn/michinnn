@@ -34,11 +34,18 @@
 
 ### ✨ ABOUT ME
 
+<div align="center">
+  <div style="display: flex;">
+    <p>
 - Aspiring Front-End developer and UI/UX designer.
 - Currently studing at Baliuag University.
 - Currebtly workig as an intern in IntelliSeven Technology Solutions Inc.
+</p>
+    <img display="flex" alt="PNG" src="./logo2.png" width="300" height = "300"/>
+  </div>
+</div>
 <br/>
-<img alt="PNG" src="./logo2.png" width="300" height = "300"/>
+
 
 
 <a href="" alt="">
