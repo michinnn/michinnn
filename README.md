@@ -32,16 +32,13 @@
 
 <hr style="background-color:#D93F48">
 
+<img align="right" alt="PNG" src="./logo2.png" width="100" height = "100"/>
+
 ### ✨ ABOUT ME
 
 - Aspiring Front-End developer and UI/UX designer.
 - Currently studing at Baliuag University.
 - Currently workig as an intern in IntelliSeven Technology Solutions Inc.
-
-<img align="right" alt="PNG" src="./logo2.png" width="100" height = "100"/>
-
-
-
 
 <a href="" alt="">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D93F48?style=for-the-badge&logo=linkedin&logoColor=white"/>
