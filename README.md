@@ -54,4 +54,4 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michinnn&t
 
 ### 📁 PUBLIC REPOS 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michin&repo=MAI&theme=rose)](https://github.com/michinnn/MAI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michinnn&repo=MAI&theme=rose)](https://github.com/michinnn/MAI)
