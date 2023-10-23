@@ -40,7 +40,7 @@
 
 <div align="left">
   <div style="display: flex;">
-    <img alt="PNG" src="./logo2.png" width="300" height = "300"/>
+    <img alt="PNG" src="./logo2.png" width="200" height = "200"/>
   </div>
 </div>
 <br/>
