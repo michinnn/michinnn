@@ -51,6 +51,8 @@
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michinnn&theme=rose)](https://github.com/michinnn)
 
+[![MAI's STATS](https://github-readme-stats.vercel.app/api?username=michinnn&show_icons=true&theme=rose)
+
 
 ### 📁 PUBLIC REPOS 
 
