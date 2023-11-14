@@ -43,9 +43,11 @@
 <a href="" alt="">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D93F48?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="" alt="">
 <img alt="Behance" src="https://img.shields.io/badge/-Behance-D93F48?style=for-the-badge&logo=behance&logoColor=white"/>
-</a><br/><br/>
+</a>
+<br/><br/>
 
 <hr style="background-color:#D93F48">
 
