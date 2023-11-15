@@ -40,7 +40,7 @@
 - Currently studing at Baliuag University.
 - Currently workig as an intern in IntelliSeven Technology Solutions Inc.
 
-<a href="" alt="">
+<a href="https://www.linkedin.com/in/mai-sanchez/" alt="">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D93F48?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
