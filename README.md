@@ -25,9 +25,9 @@
  
   <img alt="CSS" src="https://img.shields.io/badge/CSS-FFEBEB?&style=for-the-badge&logo=css3&logoColor=D93F48"/>
     
-  <img alt="Visual Studion" src="https://img.shields.io/badge/Visual_Studio-FFEBEB?style=for-the-badge&logo=visual%20studio&logoColor=D93F48"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio-FFEBEB?style=for-the-badge&logo=visual%20studio&logoColor=D93F48"/>
     
-  <img alt="Visual Code" src="https://img.shields.io/badge/Visual_Studio_Code-FFEBEB?style=for-the-badge&logo=visual%20studio%20code&logoColor=D93F48"/>
+  <img alt="Bootstarp" src="https://img.shields.io/badge/Bootstrap-FFEBEB?style=for-the-badge&logo=bootstrap%20&logoColor=D93F48"/>
 </p>
 
 <hr style="background-color:#D93F48">
