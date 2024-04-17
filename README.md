@@ -27,7 +27,7 @@
     
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio-FFEBEB?style=for-the-badge&logo=visual%20studio&logoColor=D93F48"/>
     
-  <img alt="Bootstarp" src="https://img.shields.io/badge/Bootstrap-FFEBEB?style=for-the-badge&logo=bootstrap%20&logoColor=D93F48"/>
+  <img alt="Bootstarp" src="https://img.shields.io/badge/Bootstrap-FFEBEB?style=for-the-badge&logo=bootstrap&logoColor=D93F48"/>
 </p>
 
 <hr style="background-color:#D93F48">
