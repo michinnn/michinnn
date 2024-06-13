@@ -36,10 +36,10 @@
 
 ### ✨ ABOUT ME
 
-- Aspiring UI/UX designer and Front-End developer.
-- Graduated at Baliuag University.
-- Formerly working as an intern at IntelliSeven Technology Solutions Inc.
+- UI designer and Front-End developer
 - Currently working as an Front-End Developer at Metacom.
+- Graduated at Baliuag University
+- Formerly working as an intern at IntelliSeven Technology Solutions Inc
 
 <a href="https://www.linkedin.com/in/mai-sanchez/" alt="">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D93F48?style=for-the-badge&logo=linkedin&logoColor=white"/>
