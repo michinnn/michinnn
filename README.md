@@ -37,9 +37,10 @@
 ### ✨ ABOUT ME
 
 - UI designer and Front-End developer
-- Currently working as an Front-End Developer at Metacom.
+- Currently working as a Flutter Developer at NNT.
 - Graduated at Baliuag University
 - Formerly working as an intern at IntelliSeven Technology Solutions Inc
+- Formerly working as a Front-End Developer at Metacom.
 
 <a href="https://www.linkedin.com/in/mai-sanchez/" alt="">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D93F48?style=for-the-badge&logo=linkedin&logoColor=white"/>
