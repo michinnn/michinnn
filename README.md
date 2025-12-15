@@ -28,9 +28,6 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio-FFEBEB?style=for-the-badge&logo=visual%20studio&logoColor=D93F48"/>
     
   <img alt="Bootstarp" src="https://img.shields.io/badge/Bootstrap-FFEBEB?style=for-the-badge&logo=bootstrap&logoColor=D93F48"/>
-  
-  <img alt="WordPress" src="https://img.shields.io/badge/Wordpress?style=for-the-badge&logo=wordpress&logoColor=D93F48"/>
-</p>
 
 <hr style="background-color:#D93F48">
 
@@ -65,5 +62,5 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michinnn&t
 
 ### 📁 PUBLIC REPOS 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michinnn&repo=MAI&theme=rose)]([https://github.com/michinnn/MAI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michinnn&repo=MAI&theme=rose)]([[https://github.com/michinnn/MAI](https://github.com/michinnn/MAI)])
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michinnn&repo=PetAdoption&theme=rose)](https://github.com/michinnn/PetAdoption)
