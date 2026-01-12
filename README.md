@@ -36,7 +36,7 @@
 ### ✨ ABOUT ME
 
 - UI designer and Front-End developer
-- Currently working as a Flutter Developer at NNT.
+- Currently working as a UI/UX Designer at NNT.
 - Graduated at Baliuag University
 - Formerly working as an intern at IntelliSeven Technology Solutions Inc
 - Formerly working as a Front-End Developer at Metacom.
